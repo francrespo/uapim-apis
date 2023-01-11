@@ -10,5 +10,6 @@ projects:
     tags:
       - logistics
       - commerce
+      - accounting
     documentation:
       Home: home.md
