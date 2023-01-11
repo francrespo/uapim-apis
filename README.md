@@ -1,2 +1,2 @@
 # uapim-apis
-This is an API to test the UAPIM catalog cli
+This is an API to test the UAPIM catalog CLI
